@@ -6,12 +6,18 @@ Hello, my name is Pat Sheehy. I am a junior here at the University of Iowa pursu
 Hello World
 
 ## Description
-The purpose of this project is to get familiar with GitHub as I am new to this program. Hopefully throughout this project I can successfully learn the basics of GitHub and start to develop the syntax.
+The purpose of this project is to get familiar with GitHub as I am new to this program.
 
-## How To Run Program
+## Project Goals
+Through this project I hope to:
+- Understand the ins and outs of GitHub
+- Develop a grasp of the syntax associated with GitHub
+- Learn more about its uses in the professional realm
 
 ## Files Used
+The only file I have used thus far is the READ.me file.
 
-## Additional Documentation
-
-## Versioning
+## Links
+To learn basic knowledge of GitHub I have used the following **links:**
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Hello World](https://guides.github.com/activities/hello-world/)
